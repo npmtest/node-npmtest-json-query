@@ -1,7 +1,10 @@
-# test coverage for  [json-query (v2.2.2)](http://github.com/mmckegg/json-query)  [![npm package](https://img.shields.io/npm/v/npmtest-json-query.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-query) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-query.svg)](https://travis-ci.org/npmtest/node-npmtest-json-query)
+# npmtest-json-query
+
+#### test coverage for  [json-query (v2.2.2)](http://github.com/mmckegg/json-query)  [![npm package](https://img.shields.io/npm/v/npmtest-json-query.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-query) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-query.svg)](https://travis-ci.org/npmtest/node-npmtest-json-query)
+
 #### Retrieves values from JSON objects for data binding. Offers params, nested queries, deep queries, custom reduce/filter functions and simple boolean logic. Browserify compatible.
 
-[![NPM](https://nodei.co/npm/json-query.png?downloads=true)](https://www.npmjs.com/package/json-query)
+[![NPM](https://nodei.co/npm/json-query.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json-query)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-json-query/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-json-query/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-json-query/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json-query/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json-query/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-json-query/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-json-query/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-json-query/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-json-query/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-json-query/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-json-query%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-json-query/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-json-query/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-json-query/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-json-query/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-json-query%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json-query/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-json-query/build/test-report.html](https://npmtest.github.io/node-npmtest-json-query/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-json-query/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-json-query/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-json-query/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-json-query/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-json-query/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json-query/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-json-query/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +37,6 @@
 {
     "author": {
         "name": "Matt McKegg",
-        "email": "matt@wetsand.co.nz",
         "url": "http://twitter.com/MattMcKegg"
     },
     "bugs": {
@@ -60,13 +68,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "mmckegg",
-            "email": "matt@wetsand.co.nz"
+            "name": "mmckegg"
         }
     ],
     "name": "json-query",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/mmckegg/json-query.git"
