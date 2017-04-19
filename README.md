@@ -1,6 +1,6 @@
 # npmtest-json-query
 
-#### test coverage for  [json-query (v2.2.2)](http://github.com/mmckegg/json-query)  [![npm package](https://img.shields.io/npm/v/npmtest-json-query.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-query) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-query.svg)](https://travis-ci.org/npmtest/node-npmtest-json-query)
+#### basic test coverage for  [json-query (v2.2.2)](http://github.com/mmckegg/json-query)  [![npm package](https://img.shields.io/npm/v/npmtest-json-query.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-query) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-query.svg)](https://travis-ci.org/npmtest/node-npmtest-json-query)
 
 #### Retrieves values from JSON objects for data binding. Offers params, nested queries, deep queries, custom reduce/filter functions and simple boolean logic. Browserify compatible.
 
